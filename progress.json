@@ -131,38 +131,5 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768998874.870631,
-    "completed_at": 1768998884.919797,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768999021.40614,
-    "completed_at": 1768999032.774247,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768999094.796129,
-    "completed_at": 1768999104.932281,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
   }
 ]
